@@ -1,1 +1,3 @@
 # minimal-grunt
+
+My personal jumpstart for a minimal uglified javascript prototype. Or something like that....
